@@ -1,4 +1,4 @@
-hello:i am vi0
+hello: i am vi0
 eureka:
   client:
     fetch-registry: false
