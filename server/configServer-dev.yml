@@ -1,4 +1,4 @@
-hello: i am vi0
+hello: i am vi0 git version2
 eureka:
   client:
     fetch-registry: false
